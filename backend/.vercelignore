@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log
+.DS_Store
+.vercel
+.vscode/
+.idea/
+__tests__/
+coverage/
+*.md
+*.log
+.cache/
+.temp/
+.tmp/
+uploads/
